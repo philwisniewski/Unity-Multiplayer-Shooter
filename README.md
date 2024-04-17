@@ -12,8 +12,7 @@ items are inspired from Lego.
 
 ## Getting Started
 
-Users can either download the game file titled "lego fps", or build a
-copy from Unity.
+To run the game, users must build a copy from Unity. Working on adding the app to github
 
 # Acknowledgements 
 
